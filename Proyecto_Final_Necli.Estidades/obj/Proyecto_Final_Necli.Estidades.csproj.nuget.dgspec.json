@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj",
         "projectName": "Proyecto_Final_Necli.Estidades",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Estidades\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

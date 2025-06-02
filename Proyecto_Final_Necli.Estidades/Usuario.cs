@@ -11,14 +11,14 @@ namespace Proyecto_Final_Necli.Estidades
     {
         [Key]
         public int Id_Usuario { get; set; }
-        public string Tipo_Usuario { get; set; }
-        public string Contraseña { get; set; }
-        public string Nombres_Usuario { get; set; }
-        public string Apellidos_Usuario { get; set; }
-        public string Cedula { get; set; }
-        public string Correo { get; set; }
-        public DateTime Fecha_Nacimiento { get; set; }
+        public required string Tipo_Usuario { get; set; }
+        public required string Contraseña { get; set; }
+        public required string Nombres_Usuario { get; set; }
+        public required string Apellidos_Usuario { get; set; }
+        public required string Cedula { get; set; }
+        public required string Correo { get; set; }
+        public required DateTime Fecha_Nacimiento { get; set; }
 
-        public Cuenta cuenta { get; set; }
+        public Cuenta Cuenta { get; set; }
     }
 }

@@ -11,9 +11,14 @@ namespace Proyecto_Final_Necli.Estidades
     {
         [Key]
         public int IdCuenta { get; set; }
-        public string Nombre_Titular { get; set; }
-        public DateTime Fecha_Creracion { get; set; }
-        public decimal Saldo { get; set; }
-        public string Telefono { get; set; }
+        public required string Nombre_Titular { get; set; }
+        public required DateTime Fecha_Creracion { get; set; }
+        public required decimal Saldo { get; set; }
+        public required string Telefono { get; set; }
+        public required int Usuario_Id { get; set; }
+
+        public Usuario Usuario { get; set; }
+        public ICollection<Transaccion> Transacciones_Origen{ get; set; }
+        public ICollection<Transaccion> Transacciones_Destino { get; set; }
     }
 }
