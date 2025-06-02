@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto_Final_Necli.Persistencia")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto_Final_Necli.Entidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+322cda8367929c71ec9bbbf29f73a8c0ad163592")]
-[assembly: System.Reflection.AssemblyProductAttribute("Proyecto_Final_Necli.Persistencia")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Proyecto_Final_Necli.Persistencia")]
+[assembly: System.Reflection.AssemblyProductAttribute("Proyecto_Final_Necli.Entidades")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Proyecto_Final_Necli.Entidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

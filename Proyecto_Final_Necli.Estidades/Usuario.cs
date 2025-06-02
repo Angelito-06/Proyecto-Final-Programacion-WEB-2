@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Proyecto_Final_Necli.Estidades
+namespace Proyecto_Final_Necli.Entidades
 {
     public class Usuario
     {

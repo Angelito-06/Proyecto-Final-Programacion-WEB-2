@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DbContext\" />
     <Folder Include="Interface\" />
   </ItemGroup>
 
@@ -21,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Proyecto_Final_Necli.Estidades\Proyecto_Final_Necli.Estidades.csproj" />
+    <ProjectReference Include="..\Proyecto_Final_Necli.Estidades\Proyecto_Final_Necli.Entidades.csproj" />
     <ProjectReference Include="..\Proyecto_Final_Necli.Logica\Proyecto_Final_Necli.Logica.csproj" />
   </ItemGroup>
 

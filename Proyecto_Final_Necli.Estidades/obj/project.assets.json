@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj",
-      "projectName": "Proyecto_Final_Necli.Estidades",
-      "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Entidades.csproj",
+      "projectName": "Proyecto_Final_Necli.Entidades",
+      "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Entidades.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\obj\\",
       "projectStyle": "PackageReference",

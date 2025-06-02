@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Proyecto_Final_Necli.Estidades\Proyecto_Final_Necli.Estidades.csproj" />
+    <ProjectReference Include="..\Proyecto_Final_Necli.Estidades\Proyecto_Final_Necli.Entidades.csproj" />
   </ItemGroup>
 
 </Project>

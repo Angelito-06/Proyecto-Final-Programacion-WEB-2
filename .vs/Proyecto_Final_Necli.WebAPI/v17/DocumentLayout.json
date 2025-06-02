@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3CDDAAD-ECDF-4FB5-A874-801BB6FB2CC4}|Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj|c:\\users\\usuario\\source\\repos\\proyecto_final_necli\\proyecto_final_necli.estidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3CDDAAD-ECDF-4FB5-A874-801BB6FB2CC4}|Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj|solutionrelative:proyecto_final_necli.estidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEFEF89E-F1FA-444D-8F42-AA5602884E78}|Proyecto_Final_Necli.Persistencia\\Proyecto_Final_Necli.Persistencia.csproj|c:\\users\\usuario\\source\\repos\\proyecto-final-programacion-web-2\\proyecto_final_necli.persistencia\\dbcontext\\pf_neclidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFEF89E-F1FA-444D-8F42-AA5602884E78}|Proyecto_Final_Necli.Persistencia\\Proyecto_Final_Necli.Persistencia.csproj|solutionrelative:proyecto_final_necli.persistencia\\dbcontext\\pf_neclidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3CDDAAD-ECDF-4FB5-A874-801BB6FB2CC4}|Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj|c:\\users\\usuario\\source\\repos\\proyecto_final_necli\\proyecto_final_necli.estidades\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3CDDAAD-ECDF-4FB5-A874-801BB6FB2CC4}|Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj|solutionrelative:proyecto_final_necli.estidades\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3CDDAAD-ECDF-4FB5-A874-801BB6FB2CC4}|Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj|c:\\users\\usuario\\source\\repos\\proyecto_final_necli\\proyecto_final_necli.estidades\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3CDDAAD-ECDF-4FB5-A874-801BB6FB2CC4}|Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj|c:\\users\\usuario\\source\\repos\\proyecto-final-programacion-web-2\\proyecto_final_necli.estidades\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3CDDAAD-ECDF-4FB5-A874-801BB6FB2CC4}|Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj|solutionrelative:proyecto_final_necli.estidades\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEFEF89E-F1FA-444D-8F42-AA5602884E78}|Proyecto_Final_Necli.Persistencia\\Proyecto_Final_Necli.Persistencia.csproj|c:\\users\\usuario\\source\\repos\\proyecto_final_necli\\proyecto_final_necli.persistencia\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEFEF89E-F1FA-444D-8F42-AA5602884E78}|Proyecto_Final_Necli.Persistencia\\Proyecto_Final_Necli.Persistencia.csproj|solutionrelative:proyecto_final_necli.persistencia\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3CDDAAD-ECDF-4FB5-A874-801BB6FB2CC4}|Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj|c:\\users\\usuario\\source\\repos\\proyecto-final-programacion-web-2\\proyecto_final_necli.estidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CDDAAD-ECDF-4FB5-A874-801BB6FB2CC4}|Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj|solutionrelative:proyecto_final_necli.estidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D567FEB-E4D0-45D8-9217-34EE5F5070F9}|Proyecto_Final_Necli.Logica\\Proyecto_Final_Necli.Logica.csproj|c:\\users\\usuario\\source\\repos\\proyecto_final_necli\\proyecto_final_necli.logica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D567FEB-E4D0-45D8-9217-34EE5F5070F9}|Proyecto_Final_Necli.Logica\\Proyecto_Final_Necli.Logica.csproj|solutionrelative:proyecto_final_necli.logica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3CDDAAD-ECDF-4FB5-A874-801BB6FB2CC4}|Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj|c:\\users\\usuario\\source\\repos\\proyecto-final-programacion-web-2\\proyecto_final_necli.estidades\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CDDAAD-ECDF-4FB5-A874-801BB6FB2CC4}|Proyecto_Final_Necli.Estidades\\Proyecto_Final_Necli.Estidades.csproj|solutionrelative:proyecto_final_necli.estidades\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25191E28-F013-4C64-BF0E-31B1915C859C}|Proyecto_Final_Necli.WebAPI\\Proyecto_Final_Necli.Presentacion.csproj|c:\\users\\usuario\\source\\repos\\proyecto-final-programacion-web-2\\proyecto_final_necli.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25191E28-F013-4C64-BF0E-31B1915C859C}|Proyecto_Final_Necli.WebAPI\\Proyecto_Final_Necli.Presentacion.csproj|solutionrelative:proyecto_final_necli.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25191E28-F013-4C64-BF0E-31B1915C859C}|Proyecto_Final_Necli.WebAPI\\Proyecto_Final_Necli.Presentacion.csproj|c:\\users\\usuario\\source\\repos\\proyecto-final-programacion-web-2\\proyecto_final_necli.webapi\\proyecto_final_necli.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{25191E28-F013-4C64-BF0E-31B1915C859C}|Proyecto_Final_Necli.WebAPI\\Proyecto_Final_Necli.Presentacion.csproj|solutionrelative:proyecto_final_necli.webapi\\proyecto_final_necli.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cuenta.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Estidades\\Cuenta.cs",
-              "RelativeDocumentMoniker": "Proyecto_Final_Necli.Estidades\\Cuenta.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Estidades\\Cuenta.cs",
-              "RelativeToolTip": "Proyecto_Final_Necli.Estidades\\Cuenta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T03:58:48.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Transaccion.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Estidades\\Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Transaccion.cs",
               "RelativeDocumentMoniker": "Proyecto_Final_Necli.Estidades\\Transaccion.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Estidades\\Transaccion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Transaccion.cs",
               "RelativeToolTip": "Proyecto_Final_Necli.Estidades\\Transaccion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T03:58:34.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Proyecto_Final_Necli.Estidades\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Cuenta.cs",
+              "RelativeToolTip": "Proyecto_Final_Necli.Estidades\\Cuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:58:48.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Estidades\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Usuario.cs",
               "RelativeDocumentMoniker": "Proyecto_Final_Necli.Estidades\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Estidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Estidades\\Usuario.cs",
               "RelativeToolTip": "Proyecto_Final_Necli.Estidades\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T03:58:11.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Persistencia\\Class1.cs",
-              "RelativeDocumentMoniker": "Proyecto_Final_Necli.Persistencia\\Class1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Persistencia\\Class1.cs",
-              "RelativeToolTip": "Proyecto_Final_Necli.Persistencia\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Pf_NecliDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Persistencia\\DbContext\\Pf_NecliDbContext.cs",
+              "RelativeDocumentMoniker": "Proyecto_Final_Necli.Persistencia\\DbContext\\Pf_NecliDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.Persistencia\\DbContext\\Pf_NecliDbContext.cs",
+              "RelativeToolTip": "Proyecto_Final_Necli.Persistencia\\DbContext\\Pf_NecliDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T03:57:19.697Z",
+              "WhenOpened": "2025-06-02T05:21:35.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Logica\\Class1.cs",
-              "RelativeDocumentMoniker": "Proyecto_Final_Necli.Logica\\Class1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto_Final_Necli\\Proyecto_Final_Necli.Logica\\Class1.cs",
-              "RelativeToolTip": "Proyecto_Final_Necli.Logica\\Class1.cs",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Proyecto_Final_Necli.WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "Proyecto_Final_Necli.WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T04:55:46.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proyecto_Final_Necli.WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.WebAPI\\Proyecto_Final_Necli.WebAPI.http",
+              "RelativeDocumentMoniker": "Proyecto_Final_Necli.WebAPI\\Proyecto_Final_Necli.WebAPI.http",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Proyecto-Final-Programacion-WEB-2\\Proyecto_Final_Necli.WebAPI\\Proyecto_Final_Necli.WebAPI.http",
+              "RelativeToolTip": "Proyecto_Final_Necli.WebAPI\\Proyecto_Final_Necli.WebAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T03:55:46.377Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-02T04:55:36.551Z",
               "EditorCaption": ""
             }
           ]
